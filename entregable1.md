@@ -41,3 +41,40 @@ Captura de postman PUT
 
 <image src="https://github.com/JoseMGSotelo/EntregablesCurso/blob/entregable-1/postmanPUT.PNG" alt="Captura de postman PUT">
 
+
+
+AWS:
+
+Captura de creacion del AWS
+
+<image src="https://github.com/JoseMGSotelo/EntregablesCurso/blob/entregable-1/aws.PNG" alt="Captura de creacion del AWS">
+
+Captura de creacion de lambda
+
+<image src="https://github.com/JoseMGSotelo/EntregablesCurso/blob/entregable-1/lambda.PNG" alt="Captura de creacion de lambda">
+
+Captura de vista en cloudwatch
+
+<image src="https://github.com/JoseMGSotelo/EntregablesCurso/blob/entregable-1/cloudwatch.PNG" alt="Captura de vista en cloudwatch">
+
+
+
+Kafka:
+
+Captura de comando --describe
+
+<image src="https://github.com/JoseMGSotelo/EntregablesCurso/blob/entregable-1/describe.PNG" alt="Captura de comando --describe">
+
+Captura de ejecucion del consumer
+
+<image src="https://github.com/JoseMGSotelo/EntregablesCurso/blob/entregable-1/consumer.PNG" alt="Captura de ejecucion del consumer">
+
+Captura de ejecucion del producer
+
+<image src="https://github.com/JoseMGSotelo/EntregablesCurso/blob/entregable-1/producer.PNG" alt="Captura de ejecucion del producer">
+
+
+
+MongoDB:
+
+
