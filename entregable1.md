@@ -1,1 +1,1 @@
-<image src="gitAddCommit.png" alt="Captura de comandos add commit">
+<image src="https://github.com/JoseMGSotelo/EntregablesCurso/blob/entregable-1/gitAddCommit.PNG" alt="Captura de comandos add commit">
