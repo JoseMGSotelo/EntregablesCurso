@@ -1,0 +1,21 @@
+[{
+  "_id": {
+    "$oid": "63dbea6bcbfc4d5b04717012"
+  },
+  "titulo": "La ley de Herodes",
+  "actor": "Damian Alcazar"
+},{
+  "_id": {
+    "$oid": "63dbeabfcbfc4d5b04717013"
+  },
+  "titulo": "El infierno",
+  "año": 2010,
+  "actor": "Joaquin Cosio"
+},{
+  "_id": {
+    "$oid": "63dbeed5cbfc4d5b04717014"
+  },
+  "titulo": "La dictadura perfecta",
+  "año": 2014,
+  "actor": "Damian Alcazar"
+}]
