@@ -77,4 +77,6 @@ Captura de ejecucion del producer
 
 MongoDB:
 
+Captura de ejecucion de comandos de mongoDB
 
+<image src="https://github.com/JoseMGSotelo/EntregablesCurso/blob/entregable-1/producer.PNG" alt="Captura de ejecucion de comandos de mongoDB">
