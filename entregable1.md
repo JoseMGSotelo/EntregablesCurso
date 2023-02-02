@@ -79,4 +79,4 @@ MongoDB:
 
 Captura de ejecucion de comandos de mongoDB
 
-<image src="https://github.com/JoseMGSotelo/EntregablesCurso/blob/entregable-1/producer.PNG" alt="Captura de ejecucion de comandos de mongoDB">
+<image src="https://github.com/JoseMGSotelo/EntregablesCurso/blob/entregable-1/mongo.PNG" alt="Captura de ejecucion de comandos de mongoDB">
